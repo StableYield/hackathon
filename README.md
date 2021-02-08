@@ -1,7 +1,9 @@
-# Hackathon
+# StableYield Hackathon Project
 
-Frontend Interface: https://github.com/StableYield/stableyield-interface
-Primary Smart Contract: https://github.com/StableYield/stableyield-vault
+- Application: https://stableyield-interface.kamescg.vercel.app
+- Frontend Interface: https://github.com/StableYield/stableyield-interface
+- Primary Smart Contract: https://github.com/StableYield/stableyield-vault
+- TheGraph Indexer: https://github.com/StableYield/stableyield-graph
 
 ## Overview
 
@@ -15,7 +17,7 @@ Combining elements from yEarn and Moloch the StableYieldVault automates finding 
 
 The StableYield application is built using Solidity, React and TheGraph.
 
-Multiple smart contracts were developed to increase the functionality of the base protocols (Aave and Curve) and too simplify the user experience.
+Multiple smart contracts were developed to increase the functionality of the base protocols (Aave and Curve) and too overall simplify the user experience.
 
 The frontend is built using React and the popular Vercel/Next.js platform and library.
 
